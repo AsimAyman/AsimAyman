@@ -2,14 +2,6 @@
 <h3 align="center">A passionate Software Software Engineer</h3>
 
 
-I want to add an image banner that would be displayed when searching through the Github topics (since the repo stands out).
-
-I want to do something like thisenter image description here
-
-currently, I'm adding the image at the top of the readme.md file but it does not work.
-
-
-
 - 🔭 I’m currently working on [E-commerce App Automation Testing](https://github.com/AsimAyman/E-commerce-App-Automation-Testing)
 
 - 🌱 I’m currently learning **Automation Testing**
