@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **assemayman136@gmail.com**
 
-- ⚡ Fun fact **I think i have a good instructor!**
+- ⚡ Fun fact **I think i am a good instructor!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
