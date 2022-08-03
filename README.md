@@ -1,6 +1,14 @@
 <h1 align="center">Hello there👋, I'm Assem 👑</h1>
 <h3 align="center">A passionate Software Software Engineer</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)
+
+
+I want to add an image banner that would be displayed when searching through the Github topics (since the repo stands out).
+
+I want to do something like thisenter image description here
+
+currently, I'm adding the image at the top of the readme.md file but it does not work.
+
+
 
 - 🔭 I’m currently working on [E-commerce App Automation Testing](https://github.com/AsimAyman/E-commerce-App-Automation-Testing)
 
