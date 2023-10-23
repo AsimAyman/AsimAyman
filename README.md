@@ -1,5 +1,4 @@
 <h1 align="center">Hello there👋, I'm Assem 👑</h1>
-<h3 align="center">A passionate Software Software Engineer</h3>
 
 
 - 🔭 I’m currently working on [E-commerce App Automation Testing](https://github.com/AsimAyman/E-commerce-App-Automation-Testing)
